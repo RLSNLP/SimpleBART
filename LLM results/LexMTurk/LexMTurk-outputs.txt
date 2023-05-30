@@ -1,0 +1,500 @@
+features, components, elements, parts, aspects, modules, units, segments, fragments
+rerouted, redirected, channeled, rechanneled, deflected, turned aside, sent elsewhere, sent off, sent away, siphoned off, tapped off, drawn off, taken away, removed, extracted
+owner, holder, keeper, bearer, custodian, occupant
+dangers, hazards, risks, threats, difficulties, challenges, obstacles, traps, snares, pitfalls
+maintained, kept, preserved, sustained
+home, dwelling, abode, domicile, habitation, living quarters
+gathered, obtained, acquired, collected, harvested, sourced, fetched, picked, reaped, garnered, secured, attained, accumulated, amassed, taken
+organized, called, arranged, held, hosted, conducted, summoned, brought together, assembled, initiated, launched, started, set up, put together
+crucial, essential, important, necessary, critical, indispensable, key
+gained, obtained, secured, procured, achieved, earned, won, received, took on, assumed
+quantity, amount, level, concentration, volume, extent, degree, measure, proportion, ratio, number, count, tally, inventory, stock, store, supply, pool
+large, significant, considerable, ample, extensive, abundant, copious, generous, plentiful, sizeable, hefty, meaningful
+dry, parched, barren, waterless
+wandered, strolled, roamed, sauntered, ambled, drifted, walked, zigzagged, followed a winding path, took a leisurely route, moved aimlessly, followed a circuitous path, made a winding journey
+produced, created, caused, brought about, initiated, triggered, induced, engendered, spawned, gave rise to
+include, consist of, contain, embrace, encompass, involve, incorporate, hold, have, comprise of, be composed of, be made up of, be formed of
+fastens, attaches, binds, ties, anchors, fixes, connects, links, joins, clamps, holds, grips, grasps, hitches, moors, tethers, restrains, confines
+job, profession, occupation, vocation, calling, work, employment, livelihood, pursuit
+declines, denies, rejects, resists, opposes, balks, objects, demurs, recoils, hesitates, holds back, abstains, refrains, withholds, disapproves, disagrees, dissents, protests, challenges, contests, defies
+injuries, fatalities, deaths, harm, harm to people
+sharing, conveying, imparting, relaying, communicating, delivering, sending, passing on, presenting, announcing, disclosing, broadcasting, spreading
+unleashed, launched, made available, put out, issued, unveiled, introduced, presented, debuted, published, circulated, disseminated, distributed, marketed, promoted, rolled out, brought out, delivered, sent out, dispatched, aired, broadcasted, premiered, inaugurated
+situations, scenarios, conditions, contexts, settings, environments, cases, instances
+ended, dissolved, broke up, split up, terminated, ceased to exist, disbanded itself, called it quits, went their separate ways, stopped playing together, disintegrated
+imagined, visualized, planned, conceived, anticipated, foresaw, projected, expected, intended, proposed, considered
+body, frame, shell, structure, hull, casing, chassis, skeleton, framework, carcass, outer covering, outer shell, outer framework
+takeover, purchase, buyout, merger, assimilation, integration, annexation, consolidation, procurement, appropriation, securing
+approved, supported, ratified, validated, confirmed, authorized, sanctioned, backed, upheld, accepted, agreed to
+edge, boundary, rim, margin, outskirts, fringes, circumference, border, limit, extremity, skirt, brink
+allowed, accepted, permitted, authorized, sanctioned, approved, endorsed, condoned
+furious, angry, incensed, livid, outraged, infuriated
+journey, mission, trip, venture, excursion, campaign, odyssey, exploration, quest, pilgrimage, safari, trek
+positioned, placed, located, set, established, found, sited, stationed, installed, arranged
+duties, responsibilities, commitments, tasks, assignments, undertakings, engagements, work, projects, ventures, enterprises, activities, jobs, roles, functions, missions
+unclear, uncertain, vague, indefinite, hazy, indeterminate, equivocal, doubtful, obscure, unsettled
+gave up, surrendered, relinquished, transferred, yielded, handed over, delivered, abandoned, renounced, resigned, waived, forfeited
+blockade, encirclement, assault, attack, invasion, occupation, confinement, confinement, imprisonment, imprisonment, beleaguerment, investment, besiegement, besieging, blockade, encirclement, confinement
+rented, hired, obtained the use of, took on lease, leased out, secured the lease of
+thin, scattered, meager, limited, few, inadequate, insufficient, paltry, skimpy, spare, scarce
+motivations, inducements, drives, rewards, encouragements, stimuli, impetuses, inspirations, goads, spurs, provocation, instigations, attractions, lures, enticements, persuasions, influences, prompts
+tool, device, instrument, apparatus
+support, promote, endorse, recommend, champion, back, espouse, uphold, favor, encourage, urge, suggest, propose, advance, push, plead, vouch for
+combined, united, joined, amalgamated, blended, fused, integrated, consolidated, coalesced, converged, mingled, meshed, intermixed
+earning, making, collecting, bringing in, raking in, pulling in, generating
+sorted, grouped, categorized, arranged, organized, divided, separated, graded, ranked, ordered, catalogued, listed, tabulated, systematized, classed
+help, assist, aid, expedite, ease, simplify, enable, make possible, smooth, pave the way, clear the path, streamline, grease the wheels, make easy, support, back up
+make up, form, comprise, compose, establish, create, build, fashion, shape, construct, produce, generate, originate, set up, organize, arrange
+nose
+end, tip, edge, boundary, limit, terminus, border, margin, brink, perimeter, outskirts, fringe, rim, verge, corner, point, termination, conclusion
+hope, aim, wish, desire, dream, intend, plan, strive, seek, yearn, long, crave, want
+advanced, complex, intricate, refined, elaborate, high-tech, cutting-edge, state-of-the-art, modern, innovative, advanced-level, superior, top-notch, high-end, upscale, premium, elite, polished, expert
+covered, lasted, extended, went from, ran from, ranged from, lasted from, continued, went through, lasted between, went between, extended from, ran between, ranged between, continued between
+avoid, dodge, escape, evade, flee, hide from, outrun, shake off, sidestep, slip away from, thwart
+covers, includes, contains, comprises, incorporates, embraces, involves, consists of, takes in, spans, stretches over, occupies, extends across, reaches, runs through, surrounds
+includes, contains, consists of, incorporates, encompasses, involves, has, holds, embraces, covers, features, incorporates, contains, involves
+connects, attaches, links, fastens, joins, unites, combines, adheres, couples, ties, bonds
+recorded, listed, registered, enrolled, catalogued, documented, entered, noted, marked, added, included, filed, chronicled, inscribed, written, engraved, etched, impressed, imprinted, stamped
+states, declares, asserts, confirms, avows, proclaims, maintains, attests, testifies, swears, guarantees, pledges, promises, vows, insists, asseverates, professes, affirms
+imagined, dreamed, visualized, pictured, conceived, foresaw, planned, designed, projected, contemplated
+unpredictable, irregular, unstable, inconsistent, capricious, fickle, fluctuating, variable, mercurial, volatile, changeable, uncertain, unreliable, wavering, wayward, whimsical, unsettled, random
+changing
+approved, ratified, endorsed, accepted, sanctioned, validated, confirmed, authorized, passed, agreed to, supported, backed, gave the green light to, gave the go-ahead to, gave the nod to, put into effect
+refill, resupply, restock, top up, recharge, renew, refresh, restore
+likely, susceptible, inclined, vulnerable, disposed, apt, liable, subject, open, at risk, sensitive, prone to, given to.
+quirky, unconventional, odd, peculiar, strange, unusual, idiosyncratic, offbeat, outlandish, bizarre, weird, wacky, kooky, unconventional, singular
+achieve, complete, fulfill, execute, carry out, realize, attain, perform, effect, bring about, carry through, implement
+powerful, effective, potent, influential, productive, fruitful, successful, efficient, capable, competent, able, strong, forceful, impactful, meaningful, significant, valuable, useful, helpful, advantageous, beneficial
+infamous, well-known, notorious, famous, renowned, celebrated, distinguished, eminent, prominent, recognized, established, popular, acknowledged, notable, reputable
+argument, disagreement, conflict, controversy, difference, discord, dissension, fight, quarrel, row, spat, strife, wrangle
+avoid, escape, dodge, elude, evade capture, evade detection
+village, settlement, small town, community, enclave, cluster of houses, rural area, countryside, backwater, outpost, remote area, tiny settlement
+parallel, different, divergent, separate, distinct, alternative, other, unconventional, unorthodox, nonconformist, anomalous
+appropriate, fitting, proper, adequate, acceptable, convenient, expedient, feasible, practical, reasonable, serviceable, useful, viable, fitting
+sick, unwell, ill, weak, feeble, frail, infirm
+barriers, challenges, difficulties, impediments, hurdles, setbacks, roadblocks, obstructions, stumbling blocks, handicaps, encumbrances, blockades, deterrents, limitations, constraints, restrictions, problems, issues, snags, glitches, hitches, drawbacks, disadvantages
+left, moved, relocated, departed, migrated, shifted, resettled
+basic, essential, primary, crucial, important, key, elemental, foundational, rudimentary, underlying, principal, vital, necessary
+repair, renovate, refurbish, fix, revive, rejuvenate, recondition, rehabilitate, refresh, renew
+young, underage, adolescent, minor, youthful, teenage, immature, inexperienced, tender, junior, youthful
+view, angle, outlook, approach, vantage point
+reconstructed, reorganized, reestablished, reinstated, revived, renewed, regenerated, rebuilt, remade, remodeled, refurbished, renovated, reassembled, restructured, reconfigured, reconstituted, reformed, reestablished, reinstalled, reinvigorated, rejuvenated, reanimated, resuscitated
+streams, creeks, brooks, rivers, branches, affluents, distributaries, runnels, rivulets, watercourses, waterways, feeders
+essential, important, vital, significant, necessary, critical, pivotal
+written, created, authored, formulated, crafted
+extravagant, grandiose, opulent, sumptuous, luxurious, ornate, rich, elaborate, fancy, plush, swanky, posh, elegant, stylish, chic, sophisticated, high-end, upscale, deluxe, fancy-pants, fancy-schmancy, ritzy, glamorous, showy, flamboyant, ostentatious
+end, downfall, collapse, destruction, termination, extinction, dissolution, disintegration, ruin, cessation, finish, conclusion
+pledged, promised, committed, declared, affirmed, asserted
+looked like, appeared as, seemed, had the appearance of, took on the form of, bore a resemblance to, had similarities to, had features of, shared characteristics with, had a likeness to, had a similarity to, had a semblance of, had a resemblance to, had an affinity with, had a connection to, had a relation to, had an analogy with
+encourage, promote, support, cultivate, nurture, develop, advance, boost, stimulate, facilitate, strengthen, enhance, build, establish, maintain, sustain, uplift
+violations, offenses, transgressions, breaches, wrongdoings, misdeeds, faults, misdemeanors, sins, errors, mistakes, lapses, faults, misconducts
+house, hold, lodge, shelter, harbor, receive, entertain, welcome, take in, provide for, give room to, make space for, fit in, give shelter to
+chose, selected, decided on, picked, elected, favored, went for, voted for, settled on, preferred, made a choice for
+hatred, hostility, enmity, antagonism, bitterness, resentment, ill will, discord, conflict, friction, rivalry, contention, animus, acrimony
+singer
+fake, counterfeit, replicate, imitate, copy, falsify, mimic
+extensive, wide-ranging, broad, comprehensive, immense, considerable, substantial, copious, ample
+clues, proof, data, facts, findings, information, material, support, testimony, verification, validation, corroboration
+impressive, extraordinary, exceptional, outstanding, notable, noteworthy, striking, amazing, astonishing, surprising, astounding, impressive, phenomenal, fantastic, incredible, marvelous, prodigious, stupendous, wondrous.
+clear, see-through, translucent, lucid
+dead, departed
+encourages, advises, implores, beseeches, pleads, begs, exhorts, insists, requests, petitions, importunes, appeals, presses, prompts, nudges, prods, goads, incites, instigates
+trying, making, throwing, passing, launching, delivering, heaving, flinging
+bright yellow, sunny yellow, vibrant yellow, radiant yellow, gleaming yellow, lustrous yellow, shining yellow, brilliant yellow, dazzling yellow, sparkling yellow, glittering yellow, glistening yellow, shimmering yellow, glowing yellow, resplendent yellow, beaming yellow
+renewal, resurgence, rebirth, reawakening, renaissance, comeback, restoration, rejuvenation, resuscitation, regeneration, reestablishment, reactivation, revitalization, awakening, reinvigoration
+southern, western, southwestern, southwesterly, southwest, south-west, south-westernmost, south-westward, south-westwardly, southwester, southwesterly, south-westernized, south-westernly, south-westward
+forward, attacker, scorer, goal-scorer, center forward, center striker, wing forward, inside forward, outside forward, poacher, target man, lone striker, second striker, false nine, deep-lying forward, withdrawn striker, attacking midfielder, playmaker, trequartista, shadow striker, roaming striker, box-to-box striker, goal-getter
+claimed, stated, declared, mentioned, asserted, affirmed, conveyed, expressed, told, shared
+worked together, teamed up, joined forces, cooperated, partnered, combined efforts, coauthored, contributed to, participated in
+region, province, territory, district, county, state, area, zone, sector, division, jurisdiction, locality, land, realm
+singer, musician, artist, player, entertainer, vocalist, instrumentalist
+passion, eagerness, zeal, fervor, excitement, ardor, fervency, animation, exuberance, liveliness, vigor, intensity, spirit, verve, drive, motivation
+businesses, firms, corporations, enterprises, organizations, companies, establishments, ventures, concerns, entities, operations
+named, called, dubbed, designated
+thin, stretched, extended, lengthened, elongate, prolonged, elongated
+high-ranking, top-level, important, influential, chief, principal, leading, major, primary, key, dominant, supreme, foremost, main, significant, notable, distinguished
+center back, fullback, wingback, stopper, sweeper, left back, right back, outside back, back, defender, left defender, right defender, central defender, defensive back, backline player, defensive player
+measurements, data, findings, evidence, records, reports, studies, surveys, analyses, investigations, research, discoveries, facts, information, knowledge, insights, perceptions, perspectives, views, accounts, descriptions, depictions, portrayals, representations, images, pictures, visions, outlooks
+region, area, district, province, territory, county, state, zone, sector, division, jurisdiction
+insulting, offensive, disparaging, belittling, degrading, demeaning, pejorative, abusive, critical, scornful, contemptuous
+break, pause, interruption, gap, intermission, recess, suspension, stoppage, lull
+means, indicates, represents, signifies, shows, implies, conveys, expresses, suggests, communicates, designates, characterizes, defines, labels
+ability, aptitude, talent, capability, capacity, promise, skill, proficiency, competence, gift, flair, knack, expertise, dexterity, potentiality
+rule, governance, leadership, control, authority, command, domination, sway, power, regime
+people, inhabitants, citizens, locals, dwellers, populace
+region, territory, area, district, state, county, jurisdiction, division, zone, sector, land, domain
+visits, connects to, reaches, enters, logs onto, opens, loads, retrieves, fetches, calls, summons, taps into, uses, employs, utilizes, exploits
+less, not as many, a smaller number of
+stayed, continued, remained in charge, persisted
+kept, maintained, continued, held on to
+usually, typically, commonly, regularly, normally, conventionally, habitually, routinely, customarily
+brought, imported, introduced, brought in, brought over, transported, carried, conveyed, delivered, ushered in, initiated, instigated, launched, started, established, implanted, introduced into
+types, varieties, forms, breeds, kinds, categories, classes, sorts, species, lineages, families, groups, clusters, populations, colonies, communities, cultures, variations, mutations, modifications
+hit, affected
+created, established, shaped, built, constituted, organized, developed
+found, uncovered
+acquire, get, receive, take in, derive, harvest
+left, ended things, broke up, parted ways, separated, called it quits, split up, went separate ways, terminated the relationship, disengaged, disunited, disjoined, disconnected, disassociated, disentangled, disaffiliated, disengaged from.
+area, zone
+persuaded, influenced, swayed, talked into, convinced, sold, won over, coerced, manipulated, impressed
+violently, aggressively, coercively, oppressively, tyrannically, dictatorially, autocratically, despotically, authoritatively, domineeringly, imperiously, high-handedly, arbitrarily, repressively, suppressively, forcefully, brutally, savagely, ferociously, fiercely, harshly
+difficult, challenging, problematic, complex, perplexing, vexing, knotty
+slicing, chopping, mincing, dicing, shredding, grating, peeling, paring, trimming, carving, cleaving, hacking, shearing, snipping, clipping, trimming, cutting, severing, dividing, halving, quartering, sectioning
+center, main office, base, central location, nerve center, command post, control center, hub, focal point, seat of power, administrative center, capital, command center, head office
+assumed, thought, considered, reputed, alleged, supposed
+inactive, pensioned, resigned, discharged, withdrawn, disengaged, unoccupied, idle, out of work, not working, no longer active, not employed
+pine, fir, spruce, cedar, hemlock, juniper, cypress, yew, larch, arborvitae
+pushed out, forced out, squeezed out, ejected, discharged, emitted, released, expelled, propelled, thrust out, sent out, spewed out, gushed out, poured out, flowed out, oozed out, leaked out, seeped out, dripped out, dribbled out, excreted, secreted, exuded, emanated, issued, disgorged, evacuated, emptied, drained.
+collection, set, sequence, compilation, anthology, group, bundle, package, array, assortment, range, variety, selection, assemblage, aggregate, accumulation, cluster, mass, pile
+came back, went back, came again, went again, turned back, retraced its steps, reversed course, backtracked, circled back, doubled back, made a U-turn, came back around, went back the way it came, reversed direction, retreated
+idea, notion, thought, understanding
+complete, fully operational, fully established, fully developed, fully functioning, fully formed, fully realized, fully equipped, fully manned, fully staffed, fully organized, fully functional, fully accredited, fully authorized, fully licensed, fully approved
+organized, planned, arranged, systematized, ordered, methodical, well-ordered, well-planned, well-arranged, well-organized, well-systematized, well-ordered, well-regulated, well-structured, well-designed, well-prepared, well-thought-out, well-formulated
+begin, arise, come from, derive, emanate, emerge, issue, proceed, spring, start, stem
+tried, attempted, endeavored, aimed, strived, worked, labored, struggled, aspired, hoped, wished, desired, yearned
+lighting, camera work, visual style, filmography, visual storytelling, composition, framing, lensing, visual artistry, visual language, visual aesthetics, visual design, visual elements, visual effects, visual composition, visual presentation, visual representation, visual expression, visual imagery, visual impact, visual beauty, visual mastery, visual technique
+crucial, necessary, vital, important, indispensable, key, fundamental
+compelling, convincing, influential, effective, powerful, convincing, cogent, plausible, sound, valid, weighty, impressive, authoritative, convincing, credible, believable, trustworthy, reliable, convincing, convincing
+events, happenings, incidents, episodes, situations, circumstances, phenomena, manifestations, experiences, occurrences, instances, occurrences, appearances, sightings
+explanation, meaning, interpretation, sense, understanding, concept, notion, idea, characterization, description, account, statement, definition, definition
+usually, typically, commonly, frequently, regularly, often, ordinarily, normally, habitually, consistently
+separated, split, partitioned, segmented, sectioned, categorized, classified, apportioned, allocated, distributed, broken up
+located, situated, established, headquartered, positioned, settled, stationed, placed, founded, rooted, domiciled, residing
+last
+identified, found, located, observed, spotted, noticed, sighted
+abuse, misuse, mistreatment, oppression, maltreatment, victimization, subjugation, tyranny, domination, coercion, manipulation, infringement, encroachment, usurpation, violation, disregard, neglect, injustice, discrimination, inequity
+town, village, city, community, district, region, area, locality, settlement, hamlet
+got, obtained, earned, was given, was awarded, achieved, attained, procured, collected
+vanishes, fades, disappears, evaporates, scatters, disperses, diffuses, melts away, breaks up, disintegrates, crumbles, dissolves, degenerates, decomposes, collapses, dwindles, wanes, ebbs, subsides, abates, lessens, decreases, weakens, fades away, dies down, peters out
+smooth, effortless, unobstructed, easy, unrestricted, unimpeded, seamless, continuous, uninterrupted, flowing, flexible, adaptable
+collision, convergence, meeting, clash, encounter, mingling, intermingling, interplay, interconnection, interrelation, intercommunication, interactivity, interdependence, interlocking, interweaving, intermixing, interpenetration, interposition, intercession, interjection, interlocution, interlocutionary, interlocutory, intercommunion, interflow
+lake, pond, basin, tank, cistern, pool, lagoon, well, waterhole, dam, retention pond, artificial lake, impoundment, storage basin
+stated, declared, proclaimed, revealed, disclosed
+selected, designated, chosen, elected, named, assigned, installed, nominated, ordained, commissioned, hired
+combining, uniting, joining, fusing, amalgamating, blending, integrating, consolidating, coalescing, converging, coming together, melding
+suggested, showed, demonstrated, pointed out, signaled, revealed, displayed, expressed, denoted, manifested, conveyed, implied, suggested, hinted, insinuated, intimated
+blamed, condemned, denounced, disapproved of, found fault with, frowned upon, objected to, rebuked, reproached, reprimanded, reproved, scolded, slammed, taken issue with, upbraided, censured, castigated, chastised, deprecated, disparaged, faulted, lambasted, panned, rapped, reprobated, slated
+solely, only, entirely, purely, completely, wholly, entirely, just, entirely
+found, uncovered, located
+bought
+writer, author, storyteller
+required, compelled, mandated, bound, duty-bound, responsible, expected, obliged
+method, approach, strategy, procedure, process, system, tactic, way, means, recipe, formula, modus operandi, style, manner, mode, mechanism, tool
+companies, firms, entities, businesses, ventures, establishments, enterprises, corporations, institutions, associations
+endured, experienced, underwent, encountered, faced, sustained, received, encountered, had, went through, met with, bore, weathered, tolerated
+modern, current, present-day, up-to-date, recent, new, latest, now, existing, today's, up-to-the-minute, 21st century
+usually, commonly, typically, broadly, largely, mostly, predominantly, chiefly, mainly, primarily
+rest, remaining time, balance
+located, positioned, placed, found, situated, set, established, based, situated, positioned
+concept, idea, plot device, storyline, narrative device, plot element, plot point, plot twist, device, mechanism, tool, strategy, tactic, approach, method, technique, device
+famous, well-known, notable, renowned, distinguished, celebrated, eminent, respected, recognized, acknowledged, popular, high-profile, conspicuous, visible, outstanding, exceptional, remarkable, noteworthy, significant, important, major, influential, powerful, dominant, leading, top, foremost, primary, main
+Typically, usually, normally, generally, ordinarily, commonly, habitually, consistently, regularly, frequently, often, repeatedly, routinely, traditionally, conventionally, customarily, standardly, habitually, systematically, predictably, expectedly, reliably, constantly.
+uncertain, unsure, indecisive, ambivalent, hesitant, wavering, unresolved
+promoting, marketing, publicizing, showcasing, displaying, exhibiting, presenting, featuring, highlighting, touting, hyping, pushing, plugging, endorsing, advocating, championing, espousing, recommending, selling
+usually, typically, commonly, ordinarily, frequently, regularly
+hits, impacts, lashes
+emitted, generated, released, created, caused
+identified, found, located, sensed, discovered, observed, spotted
+refused, rejected, prohibited, barred, excluded, disallowed, forbidden, prevented, obstructed, hindered, impeded, restrained, stopped, blocked, thwarted, held back
+produced, made
+build, establish, form, develop
+gas, liquid, solution, mixture
+seen, watched, noticed, witnessed, viewed, monitored
+suggested, announced, confirmed, declared, revealed, stated, signaled, conveyed, expressed, implied, hinted
+book, story, tale
+different, diverse, assorted, multiple, several, many, numerous, varied, mixed, manifold
+land, area, region, domain, expanse, tract
+seldom, hardly ever, infrequently, scarcely, not often, almost never, scarcely ever, hardly, on rare occasions, once in a blue moon, sporadically, intermittently, from time to time, occasionally, every now and then, now and again
+difficult, problematic, challenging, vexing, thorny, knotty, bothersome, irksome, annoying, frustrating, exasperating, irritating, nettlesome, pesky, nagging, worrisome, trying, testing
+based, located, situated, established, founded, centered, positioned, stationed, placed, settled, installed, lodged, headquartered, housed, domiciled, resident, occupying
+strong, powerful, intense, severe, violent, ferocious, mighty, forceful, gusty, tempestuous, stormy, blustery, raging, turbulent, wild, destructive, devastating, damaging, fierce
+now, presently, at present, at the moment, these days, nowadays, currently, in the present, in the here and now, in the now, in the present moment
+rare, special, one-of-a-kind, exclusive, distinct, individual, particular, exceptional, singular, extraordinary, uncommon, unusual, original, different, specific, peculiar
+judge, participant, expert, commentator, critic, analyst, reviewer, assessor, appraiser, evaluator, referee
+accessibility, presence, existence, readiness, obtainability, attainability, approachability, reachability, chance, opportunity, option, scope, range, capacity, capability, potential, likelihood, probability, chance, opening, window, avenue, means, resources, stock, supply, inventory
+registered, matriculated, joined, signed up, enlisted, admitted, enrolled, entered, began attending, became a student, started classes, enrolled oneself, took up studies, became a member, became a part of, became a pupil, became a scholar
+prominent, top, renowned, well-known, distinguished, notable, eminent, respected, celebrated, famous, prestigious, influential, significant, major, primary, chief, principal, foremost, main
+village, town, hamlet, settlement, neighborhood, colony, enclave, district, suburb, locality, area, region
+motif, subject, topic, idea, concept, thread, matter, focus, point, thesis, argument, notion, premise, element
+Aaron, Benjamin, Nathaniel, model, actor, third brother, youngest brother, Nathaniel the actor, Nathaniel the model.
+considerable, substantial, noteworthy, important, sizeable, meaningful, remarkable, notable, considerable, marked, considerable
+main, chief, principal, leading, foremost, primary, key, essential
+farm, property, land, homestead, ranch, manor, holding, domain, acreage
+studies, investigations, experiments, analysis, exploration, inquiry, examination, scrutiny, observation, testing, evaluation, findings
+past, previous, ex-, earlier, prior, preceding, erstwhile, bygone
+helped, aided, supported, collaborated with
+often, regularly, repeatedly, commonly, habitually, routinely, consistently, frequently
+holes, openings, slots, pockets, cavities, wells, depressions, indents, divots, recesses, slots
+tragic, unlucky, hapless, disastrous, calamitous, wretched, miserable, pitiful, woeful, ill-fated
+converting, transforming, encoding, digitizing, transcribing, transposing, rendering, reformatting, transmuting, changing, shifting
+bad guy, antagonist, heel, evildoer, nemesis, foe, rival, enemy, troublemaker, antagonist, baddie, scoundrel, rogue
+field, area, subject, domain, realm, sphere, scope, expertise, profession, occupation, vocation, trade, craft, industry, branch, specialty, study, knowledge, science, art, practice, method, approach, system, theory, framework, model, paradigm, perspective, context, milieu.
+vast, wide, broad, expansive, large, spacious, ample, generous, considerable, substantial, significant, copious, abundant, plentiful
+biggest, most massive
+parts, portions, fragments, pieces, areas, regions, parcels
+amazing, astonishing, impressive, remarkable, extraordinary, exceptional, phenomenal, incredible, outstanding, superb, fantastic, marvelous, wondrous, stupendous, awe-inspiring, breathtaking, phenomenal
+played, fought, battled, competed, vied, challenged, faced off, contended, struggled
+pieces, remnants, shards, debris, parts, sections, chunks
+occupied, seized, taken over, incorporated, subjugated, conquered, captured, dominated, subsumed, assimilated, absorbed, engulfed, usurped, appropriated, annexed, claimed, acquired
+indicated, showed, suggested, displayed, demonstrated, revealed, expressed, conveyed, manifested
+acquired, obtained, secured, procured, got, received, took possession of, took custody of, took charge of, assumed control of, took over, became the guardian of, became the caretaker of, became the custodian of
+businessperson, founder, innovator, creator, self-starter, risk-taker, trailblazer, tycoon, magnate, industrialist, capitalist, investor, dealer, merchant, trader, dealer, contractor, proprietor, owner, CEO, manager
+assimilated, incorporated, integrated, taken in, consumed, engulfed, devoured, digested, metabolized, soaked up, sponged up, mopped up, wiped up, blotted up, drank up, ingested, imbibed, received, accepted, welcomed, accommodated, adapted, adjusted to, conformed to, blended with, merged with, united with, joined with, combined with, fused with, coalesced with, amalgamated with.
+several, numerous, many, various, diverse, manifold, abundant, copious
+broadcast, transmitted, shown, presented, telecast, screened, exhibited, disseminated, put on, released, unveiled, launched, premiered
+beliefs, doctrines, principles, tenets, teachings, rules, guidelines, commandments, injunctions, mandates, decrees, edicts, maxims, axioms, canons, dogmas, credos, ideologies, philosophies, faiths, creeds
+looks like, appears like, is similar to, takes after, has the same look as, bears a resemblance to, has a likeness to, has an affinity with, has a connection to, shares characteristics with, has a parallel with, has a comparison to, has a semblance to, has an analogy with, has a reflection of
+label, trademark, logo, identity, symbol, emblem, insignia, hallmark, moniker, tag, name, title, designation, sign, stamp, marker, indication, representation, image, icon
+attacked, ambushed, physically assaulted, violently attacked, set upon, pounced upon, accosted
+declined, denied, rejected, turned down, said no, rebuffed, spurned, dismissed, repudiated, disapproved, vetoed, nixed, opposed, balked, shunned, snubbed
+at first, in the beginning, to start with, at the outset, initially, originally, primarily, to begin with
+therefore, thus, consequently, as a result, so, accordingly, for this reason, that's why, because of this, due to this, in light of this, in consequence, ergo, henceforth, subsequently, subsequently to this, following this
+tried, sought, endeavored
+remote, isolated, hard-to-reach, hard-to-get-to, out-of-the-way, off-the-beaten-path, secluded, hidden, hard-to-find, unapproachable, unreachable, cut-off, disconnected, far-flung, desolate, barren, wild, untamed, inhospitable, harsh, difficult, challenging, treacherous, hazardous, rugged
+remote, distant, isolated, far-flung, peripheral, border, frontier, backwater, hinterland, offbeat, secluded, obscure, backcountry, backwoods, rural, countryside, isolated
+founded, created, started, initiated, set up, launched, formed, instituted, built
+central, fundamental, essential, primary, basic, key, pivotal, main, important, integral, principal, underlying, elemental
+nearby, neighboring, close, adjoining, bordering, contiguous, next to, alongside, abutting, touching
+part, element, feature, aspect, module, constituent, section, division, unit
+informs, says, declares, states, mentions, communicates, conveys, imparts, expresses, utters, articulates, voices, passes on, relays, announces, discloses
+depictions, portrayals, images, illustrations, pictures, renderings, sketches, drawings, designs, models, examples, samples, instances, cases, specimens, embodiments, manifestations, expressions, indications, symbols, tokens, signs, marks
+gameplay features, aspects of gameplay, game mechanics, gameplay elements, specific gameplay components, particular gameplay aspects, certain gameplay elements
+printed, released, issued, brought out, made available, unveiled, launched, presented, introduced, circulated, put out
+think, believe, regard, view, hold, judge, deem, count, reckon, suppose, see, perceive, opine
+helped
+allows, authorizes, sanctions, grants, enables
+often, frequently, typically, commonly, regularly, generally, ordinarily, habitually, customarily, traditionally, routinely, consistently, normally
+revenge, reprisal, counterattack, payback, response, reaction, reciprocation, counterblow, counteroffensive, counterpunch, counterstrike, counterassault, counteraction, countermove, counterrevenge, counterretaliation, counterretribution, counterstroke, counterblow
+connected, linked, related, tied, joined, combined, united, attached, affiliated, correlated, interrelated, interdependent, intertwined, entwined, bonded, fused, amalgamated, integrated, blended, merged
+animal, mammal, primate
+uprising, rebellion, revolt, insurrection, mutiny, overthrow, seizure of power, takeover, coup d'état, putsch, regime change, subversion, insurgency, sedition, civil disobedience, resistance, revolution, upheaval, disturbance, riot, mutiny, takeover
+created, established, founded, organized, started, initiated, brought together
+intentionally, on purpose, consciously, willfully, purposefully, premeditatedly, with intent, with premeditation, with malice aforethought, with forethought, with planning, with calculation, with design, with deliberation, with determination, with resolution
+system, grid, infrastructure, web, net, circuit, setup, arrangement, organization, structure, framework, apparatus, mechanism
+surrounding, filling, covering, engulfing, occupying, taking up, inhabiting, pervading, saturating, permeating, infusing, imbuing, suffusing, penetrating, infiltrating, spreading through, extending throughout, running through
+famous, renowned, distinguished, celebrated, well-known, prominent, remarkable, outstanding, exceptional, noteworthy, memorable, impressive, significant, notable
+escape, flight, fleeing, evasion, breakout attempt, jailbreak
+other items, additional components, further elements, more constituents, extra parts, supplementary substances, added factors, other additives, further agents, more components, additional ingredients, other components, further constituents, more elements, extra ingredients, supplementary ingredients, added ingredients, other substances
+handing out, disseminating, circulating, giving out, spreading, sharing, issuing, delivering, providing, supplying, furnishing, dispensing, disbursing, imparting
+followers, believers, supporters, disciples, devotees, practitioners
+whistling, humming, chanting, vocalizing, crooning, warbling, trilling, caroling, serenading, yodeling, chorusing, harmonizing, intoning, vocalizing, performing, entertaining, presenting, showcasing, exhibiting, displaying, demonstrating, acting, miming, gesturing, expressing.
+comes from, originates from, is derived from, stems from, has its roots in
+managed, ran, oversaw, controlled, directed, handled, supervised, administered, governed, led
+played, acted, depicted, represented, embodied, personified, characterized, performed, enacted, starred
+created, produced, made, built, designed, crafted
+cliffs, ridges, bluffs, precipices, crags, scarps, slopes, hillsides, embankments, banks, ledges, promontories, outcroppings, rock faces
+changed, rebranded, relabeled, rechristened, redefined, restructured, remodeled, transformed, converted, modified, altered, adjusted, edited
+established, created, started, initiated, launched, set up, formed, originated, began, introduced, opened
+mean, yearly, average
+extent, range, breadth, width, reach, sphere, ambit, compass, purview, domain, area, territory, field, realm, capacity, limit
+called, known as, referred to as
+people, inhabitants, locals, citizens, dwellers, natives, occupants, denizens, community
+continued, went on, persisted, endured, ran, stretched, spanned, covered, lasted for, lasted through, lasted up to, lasted until
+chosen, selected, picked, designated, appointed, elected, handpicked, favored, singled out, nominated, culled, sorted, screened, sifted, plucked, cherry-picked, hand-chosen, hand-selected, pre-chosen, pre-determined, pre-arranged
+theory, proposition, assumption, postulate, conjecture, thesis, supposition, idea, belief
+gathered, rounded up, collected, herded, assembled, brought together, accumulated, amassed, rounded, drove, forced, pushed, directed, guided, shepherded, marshaled, mustered, wrangled, reined in, controlled
+upper, lower, middle, front, back, left, right, center, corner, side, end, nearest, farthest
+slowly, steadily, little by little, by degrees, progressively, in stages, over time, bit by bit, imperceptibly, gradually
+appeared, arose, developed, came about, originated, sprang up, surfaced, manifested, materialized, grew, evolved, took shape
+height, altitude, level, position
+such as, encompassed, involved, comprised, contained, embodied, entailed, featured, incorporated, constituted, covered, embraced, had, held, numbered, possessed, comprised of, consisted of, made up, contained within, formed, carried, entailed
+but not including, except for, apart from, aside from, leaving out, not counting, without, save for, other than, barring, excepting, omitting, disregarding, passing over, rejecting, setting aside, discounting, abstaining from, refraining from
+however, nonetheless, still, yet, regardless, notwithstanding, even so, all the same, in spite of that, despite that, be that as it may, having said that, on the other hand, conversely, in contrast
+explained, represented, comprised, constituted, made up, formed, contributed, added up to, totaled, amounted to, accounted for, constituted, composed, encompassed, embodied, included, involved, contained, carried, held, possessed, had, owned, showed, demonstrated, manifested, displayed, presented, indicated
+maintain, uphold, protect, safeguard, continue, sustain, keep, conserve, secure
+running, using, managing, handling, running, controlling, driving, piloting, maneuvering
+includes, has, holds, comprises, features
+biggest, worst, most crushing, most lopsided, most one-sided, most decisive
+constantly, perpetually, unceasingly, incessantly, nonstop, without interruption, unremittingly, steadily, regularly, persistently, without pause
+polishing, pressing, flattening, smoothing out, evening out, straightening, ironing, tidying, neatening, grooming, sleeking, refining, perfecting, leveling, smoothing down, calming, soothing, easing, relaxing, unwrinkling, uncreasing, deflating, de-wrinkling, unrumpling, uncrumpling
+residents, locals, settlers, occupants, dwellers, denizens, population, people, community, society
+recording, filming, capturing, documenting, videoing, shooting, making a video of, filming the reactions
+first, beginning, starting, opening
+show, broadcast, series, production, presentation, airing, episode, installment
+often, typically, usually, generally, ordinarily, frequently, regularly, habitually, commonly, conventionally, traditionally, routinely, normally, regularly, repeatedly, consistently, habitually
+claims, states, contends, maintains, alleges, argues, suggests, posits, proposes
+very, highly, exceedingly, exceptionally
+stop, hinder
+sight, eyesight, seeing, perception, view, observation, eyes
+different, diverse, assorted, mixed, several, manifold
+person, individual, protagonist, figure, persona, role, actor, player
+emerges, originates, springs, wells up, begins, starts, comes forth, appears, surfaces, emanates, issues, proceeds, flows out, starts out
+said, declared, announced
+purpose, aim, objective, goal, design, plan, aspiration, ambition, target, mission, idea
+previous, past, old, earlier, prior, preceding, ex-, erstwhile, bygone, ancient
+show, demonstrate, reveal, display, signify, denote, manifest, express, communicate, convey, point to, prove
+influenced, sparked, motivated, encouraged, stimulated, provoked, triggered, incited, instigated, initiated, prompted, induced, generated, engendered, caused, brought about, led to, resulted in, produced, created, originated, gave rise to, fostered, cultivated, nurtured, developed, influenced
+students, pupils, learners, apprentices, disciples, novices, trainees, enrollees
+government, administration, ruling power, authority, system, leadership, management, rule, regime, establishment, organization, structure, setup
+version, instance, execution, application, utilization, utilization, utilization, utilization, utilization, utilization, utilization, utilization, utilization, utilization, utilization, utilization, utilization, utilization, utilization, utilization, utilization, utilization, utilization, utilization, utilization, utilization
+advanced, moved, went, continued, journeyed, headed, traveled, marched, set off
+area, district, zone, sector, region, part, segment, division, precinct, territory, tract, quarter, locality, community, borough, enclave, patch, slice
+regarded, deemed, judged, thought of, viewed, seen as, looked upon as, reckoned, estimated, appraised, evaluated, assessed, adjudged, concluded, determined, believed, held, counted as, reputed
+coastline, landform, headland, promontory, spit, cape, point, spit of land, finger of land, neck of land, isthmus, projection, horn, bluff, ridge, escarpment, crag, cliff
+show
+freedom from punishment, exemption from penalty, immunity, amnesty, absolution, exoneration, acquittal, clearance, release, discharge, liberation, exception, privilege, right, license, authorization, sanction, approval, endorsement, support, backing, allowance, indulgence, leniency
+well, effectively, proficiently, skillfully, capably, expertly, efficiently, competently, aptly, triumphantly, with flying colors, with ease, with skill, with finesse, with mastery, with dexterity, with precision, with expertise, with proficiency, with competence, with talent, with ability, with flair, with panache, with grace, with poise
+traditional, iconic, renowned, celebrated, famous, well-known, popular, beloved, time-honored, vintage, old-school, established, enduring, lasting, familiar, standard, customary, regular, typical, usual, everyday, common, ordinary
+popular, conventional, traditional, common, widespread, dominant, prevailing, accepted, established, customary, usual, regular, routine, typical, standard, ordinary, familiar, ubiquitous, universal, general, normative
+reliable, dependable, honest, credible, authentic, genuine, truthful, accurate, factual, verifiable, valid, sound
+last, ultimate, concluding, end, terminal
+small, minor, modest, negligible, insignificant, tiny
+correlates, corresponds, links, associates, connects, ties, binds, interrelates, interconnects, interlinks, interlaces, interweaves, intermeshes, interlocks, interplays, intercommunicates, interchanges, interdependent, interrelated, interassociated, intercorrelated, interdependent, interlinked, interwoven, intertied, interrelated
+cattle, pigs, sheep, goats, horses, chickens, ducks, turkeys, rabbits, llamas, alpacas
+time, duration, stretch, span
+typical, distinctive, recognizable, unique, peculiar, individual, special, specific, particular, idiosyncratic, emblematic, symbolic, iconic, representative, indicative, diagnostic, telling, significant, notable, remarkable, outstanding, prominent, famous
+stated, declared, proclaimed, revealed, disclosed, made public, broadcasted, reported, conveyed, communicated, shared, expressed, uttered, voiced, declared publicly, announced formally, proclaimed officially, made an announcement, put out a statement, issued a press release, broke the news, let it be known, spread the word
+somewhat, comparatively, moderately, fairly, quite, slightly, rather, a bit, a little, to some extent, to a degree, in part, in some measure, in a way, in a sense
+impassable, unreachable, unattainable, unapproachable, out of reach, off-limits, closed off, blocked, barred, sealed, shut, locked, bolted, fastened, secured, inaccessible, unobtainable, untouchable, unfeasible, impractical, impossible, unworkable, unachievable, unpermissible, forbidden, prohibited, banned, taboo, restricted, limited, constrained, bound.
+concentrated, fixated, centered, engrossed, absorbed, attentive, dedicated, committed, devoted, intent, preoccupied, occupied, immersed, involved, interested, fascinated, captivated, enchanted, mesmerized, spellbound, gripped, seized, taken, obsessed
+type, kind, sort, form, style, variation, variant, version, manner, mode, flavor
+develop, produce, make, craft, invent, design
+ruler, king, queen, sovereign, leader, head of state, emperor, empress
+changed, modified, transformed, converted, reworked, turned into, made into, translated, adjusted, altered, revised
+right away, promptly, instantly, quickly, without delay, straightaway, forthwith, rapidly, speedily, in no time, at once
+limited, bordered, enclosed, surrounded, hemmed in, circumscribed, defined, marked, delineated, demarcated, edged, fringed, rimmed, skirted, flanked, abutted
+admitted, moved, taken, transported
+seize, apprehend, nab, catch, snatch, grab, take, ensnare, trap, ensnarl, entrap, net, bag, collar
+supplied, furnished, gave, granted, bestowed, offered, presented, yielded, contributed, delivered, handed over, extended, afforded, lent, gave out
+focuses, specializes, emphasizes, prioritizes, centers, directs attention to, dedicates itself to, puts emphasis on, zeroes in on
+ban, forbid, disallow, restrict, outlaw, prevent, stop, bar, hinder, impede, curb
+minimize, decrease, lessen, cut down, curtail, diminish, lower, shrink, downsize, truncate, pare down, slim down, scale back, compress
+much, significantly, greatly, substantially, markedly, notably, appreciably, extensively, largely, abundantly, hugely, massively, overwhelmingly, tremendously, exceptionally, extraordinarily
+need, demand, depend on, rely on
+fight, clash, battle, skirmish, altercation, struggle, scuffle, tussle, brawl, conflict, contest, engagement, encounter
+before, earlier, formerly, previously, beforehand, already, hitherto, antecedently, erstwhile, heretofore, once, once upon a time, in the past
+infants, babies, neonates, younglings, offspring
+covered, lasted, extended over, occupied, encompassed, included, comprised, ran from, went from, lasted from, continued through, went through, lasted over, went over, extended from, ranged from, went between, bridged, linked
+utmost, supreme, topmost, paramount, ultimate, greatest, foremost, primary, leading, dominant, preeminent, chief, major
+come from, stem from, originate from, spring from, arise from, evolve from, develop from, grow from, be descended from
+attacked, surrounded, blockaded, encircled, invested, laid siege to, stormed, assailed, overran, occupied, beleaguered
+obtained, earned, garnered, achieved, acquired, won, attained, procured
+plotted, schemed, collaborated, connived, devised, hatched a plan, worked together, consorted, maneuvered, contrived, collaborated, colluded, machinated, intrigued, planned, devised a strategy, formed a plan, worked in cahoots
+threatening, intimidating, frightening, alarming, scary, daunting, terrifying, chilling, unnerving, disconcerting, scary
+moon, orbiter, celestial body, space object, heavenly body, natural satellite, cosmic body, planetoid, minor planet, spheroid, astronomical body, space rock, asteroid, comet, planet, dwarf planet, heavenly orb
+usually, commonly, generally, ordinarily, regularly, frequently, often
+proof, indication, sign, clue, testimony, demonstration
+rests, sits, is located, can be found, is situated, stands, is positioned, is placed, is nestled, is set
+build, erect
+transferred, shifted, relocated, transported, migrated, repositioned, displaced, carried, conveyed, hauled, dragged, pushed, pulled, lifted, heaved, hoisted, removed, changed position, switched, rehomed
+go, journey, voyage, trek, roam, wander, move, proceed, transit, traverse
+popular, extensively, broadly, commonly, generally, universally, widely recognized, widely acclaimed, widely celebrated, widely acknowledged, widely appreciated, widely accepted
+started, initiated, established, began, created, introduced, set up, founded, inaugurated, kicked off, commenced, activated
+look like, appear like, seem like, be similar to, have a likeness to, have an affinity with, have a resemblance to, bear a resemblance to, be akin to, be comparable to, be analogous to, be parallel to, be like, be identical to, be the same as, be reminiscent of
+triggered, resulted in, brought about, led to, produced, engendered, occasioned, provoked, initiated, induced, created, made, generated, effected, wrought, established, formed, set up, started, incited, stimulated, evoked, elicited
+important, substantial, noteworthy, considerable, meaningful, crucial, vital, essential, pivotal, influential
+progress to, advance to, evolve into, transform into, turn into, become, grow into, manifest as, result in, lead to, give rise to, bring about, trigger
+controlled, possessed, held, had, dominated, governed, managed, oversaw, supervised, commanded, directed, regulated, administered, presided over, ran, ruled, stewarded, chaired
+showed, proved, exhibited, displayed, manifested, illustrated
+hide, camouflage
+ban, restriction, embargo, interdiction, forbiddance, proscription, veto, taboo, disallowance, inhibition, suppression, proscription, outlawing, banishment
+muddy, cloudy, murky, hazy, unclear, opaque, dingy, dirty, grimy, grubby, smudged, soiled, stained, sullied, befouled, besmirched, fouled, unclean
+influences, determines, controls, shapes, governs, directs, regulates, decides, prescribes, mandates, specifies, sets, establishes, forms, molds, fashions, designs, conditions
+gather, assemble, call together, summon, bring together, round up, mobilize, rally, muster, convoke, organize, arrange, schedule, set up, coordinate, orchestrate
+data, findings, results, records, notes, reports, information, evidence, facts, details, particulars, specifics, intelligence, input, feedback, impressions, perceptions, insights, viewpoints
+buildings, high-rises, skyscrapers, edifices, structures, complexes
+slowly, steadily, little by little, bit by bit, by degrees, progressively
+aid, assistance, help, support, aid, backing, guidance, care, attention, favor, contribution, work, labor
+emitted, discharged, expelled, vented, exhaled, exuded, emanated, spewed, spouted, gushed, poured out, flowed out, seeped out, oozed out, leaked out, escaped, let out, sent out, given off, produced, excreted
+are available, can be found, are present, are published, are out there, are accessible, are in circulation, are in existence, are on the market, are obtainable, are on hand, are in print, are on offer, are up for grabs, are on display, are on sale
+hanging around, lingering, idling, loafing, dawdling, stalling, delaying, wasting time, sauntering, meandering, wandering, pacing, standing around, waiting, delaying, procrastinating, killing time, lounging, loitering, moseying, dilly-dallying, dragging one's feet.
+separate, differentiate, identify, recognize, tell apart, discern, discriminate, set apart, demarcate, mark, label, tag, specify, indicate, signal, denote, show, exhibit, manifest, evince, reveal
+emerging, developing, budding, incipient, beginning, initial, early, fledgling, growing, evolving, maturing, nascent, potential, promising, rudimentary, starting, emerging, inceptive, inchoate, infant, juvenile, nascent, embryonic, inceptive, inchoate, initial
+contains, comprises, incorporates, involves, embraces, encompasses, consists of, has, holds, features, incorporates, takes in, covers, contains within it, involves within it, comprises of, is made up of, is composed of
+limit, dividing line, demarcation, border, edge, line, threshold, cutoff, separation, partition, division, split, break, barrier, frontier
+planned, created, intended, formulated, devised, developed, constructed, built, engineered, drafted, mapped
+started, launched, commenced, begun, instigated, triggered, activated, set in motion, kicked off, opened up
+location, spot, place, venue, area, position, setting, scene, ground
+moved, progressed, advanced, traveled, proceeded, journeyed, made its way, headed, went, followed, traversed, crossed, passed through
+generates, creates, yields, delivers, forms, makes, generates
+important, significant, powerful, impactful, prominent, notable, renowned, famous, well-known, celebrated, distinguished, eminent, respected, admired, revered
+chaotic, unpredictable, erratic, uneven, haphazard, disorderly, random, unsystematic, disorganized, nonuniform, asymmetrical, rough
+famous, mythical, renowned, fabled, celebrated, iconic, storied, well-known, popular, notorious, infamous, traditional, established, reputed, acclaimed, distinguished, eminent, notable, prominent, recognized
+prevent, evade, elude, shun, escape, bypass, circumvent, steer clear of, sidestep, dodge, avert, forestall, ward off, keep away from, stay clear of, eschew, abstain from, refrain from
+avoid, circumvent, detour, divert, evade, go around, ignore, neglect, overlook, pass over, sidestep, skirt, steer clear of, skip
+offers, supplies, furnishes, delivers, grants, bestows, presents, gives, affords, yields, imparts, contributes, facilitates
+sent to, moved to, relocated to, assigned to, dispatched to, shifted to, sent over to
+rests, sits, is located, is situated, is positioned, is placed, can be found, is, stands, exists
+led to, caused, brought about, triggered, produced, brought on, ensued in, culminated in, ended in, led up to, resulted in, gave rise to, occasioned, provoked
+stands for, plays for, competes for, participates in, performs for, acts as, embodies, symbolizes, epitomizes, typifies, characterizes, showcases, displays, exhibits, presents, features, shows, puts on, represents as, portrays as, depicts as, describes as, defines as, labels as, identifies as
+exchangeable, tradable, redeemable, interchangeable, transformable, switchable, alterable, modifiable, adjustable, transformable, adaptable, changeable, modifiable, variable, flexible, versatile, transformable, transmutable, mutable, modifiable
+lost, surrendered, gave up, relinquished, ceded, yielded, transferred, handed over, let go of, released, abandoned
+attributed, assigned, imputed, credited, given, assigned to, linked to, connected to, associated with, related to, assigned as, designated as, identified as, characterized as, described as, defined as, labeled as, named as, referred to as, recognized as
+color, shade, tint, tone
+meaningful, significant, impactful, powerful, evocative, suggestive, expressive, poignant, touching, stirring, affecting, emotional, heartfelt, deep, profound, resounding, reverberating, echoing, vibrating, striking, memorable, unforgettable, lasting, enduring, impressive, remarkable, notable, noteworthy, outstanding
+supported, promoted, advocated, endorsed, backed, encouraged, boosted, advanced, defended, upheld, recommended, vouched for, stood up for, espoused, fostered, nurtured, facilitated, facilitated the rise of, helped, assisted, aided, abetted, lent a hand to, lent support to, gave a boost to
+guide, standard, benchmark, model, criterion, gauge, yardstick, touchstone, norm, basis, foundation, starting point, point of departure, source, origin, root, fundamental, principle, cornerstone, keystone, lodestar, compass, beacon, signal, indicator, marker, signpost, direction, orientation.
+soon after, afterwards, subsequently, later on, following that, in the aftermath, in the wake, subsequently, afterward, then
+showed up, featured, acted, performed, played, took part, made an appearance, was in, starred, had a role, appeared in, graced, showed, presented, manifested
+mainly, mostly, chiefly, predominantly, principally, largely, primarily
+elected, chosen, designated, named, selected, assigned, installed, inaugurated, sworn in, instated, put in place, established, introduced, brought in, enlisted, engaged, hired
+highlights, emphasizes, addresses, raises, discusses, focuses on, highlights, underscores, brings up, mentions, touches on, spotlights, highlights, draws attention to, indicates, signals, denotes, signifies, suggests, intimates, insinuates, implies, conveys, expresses, articulates, states, declares, asserts, affirms, avers, maintains, contends
+probable, possible, feasible, promising, plausible, viable, realistic, achievable
+allow, facilitate, permit, empower, authorize, make possible, give the means to, provide the opportunity to, grant the capacity to, give the green light to, sanction, endorse, give the go-ahead to
+approved, supported, sanctioned, authorized, validated, accredited, certified, ratified, confirmed, accepted, acknowledged, backed, upheld, attested, vouched for, given the stamp of approval
+establishment, creation, inception, initiation, origination, formation, institution, launch, introduction, commencement, outset, birth, genesis, dawn, start, beginning, opening, onset
+at first, in the beginning, at the outset, originally, to start with, initially
+mechanical, motion, movement, active, dynamic, mobile, energetic, lively, vigorous, forceful, powerful, brisk, sprightly, animated, spirited, vivacious, peppy
+discomfort, annoyance, itchiness, soreness, burning, stinging, prickling, smarting, tenderness, sensitivity, inflammation, redness, swelling, grittiness, scratchiness, dryness, watering, tearing, blurring, fatigue, strain
+dispute, argument, disagreement, debate, contention, conflict, clash, quarrel, altercation, wrangle, squabble, fuss, commotion, uproar, turmoil, upheaval, scandal, sensation, outcry, hullabaloo, brouhaha
+recognized, acknowledged, realized, detected, perceived, noticed, observed, discerned, grasped, understood, comprehended, appreciated, apprehended, ascertained, established, confirmed, verified, validated, authenticated, certified, endorsed, approved, sanctioned, ratified, affirmed
+newest, most recent, current, up-to-date, fresh, modern
+games, contests
+sinister, evil, wicked, malevolent, malicious, nefarious, diabolical, fiendish, demonic, satanic, monstrous, heinous, atrocious, despicable, contemptible, odious, abominable, detestable
+putting, positioning, setting, installing, situating, depositing
+crossed, mated, hybridized, pollinated, fertilized, paired, matched, combined, united, linked, connected, merged, blended, integrated, interbred, intercrossed, intermixed, intermingled, interlinked, interwoven, interlaced, interlocked, interrelated, interdependent, intermarried, interbred, crossed over, interbred with, interbred between, interbred among.
+main, primary, chief, leading, major, dominant, key, crucial, essential, significant, important, top, primary
+approved, confirmed, endorsed, validated, authorized, sanctioned, accepted, affirmed, certified, finalized, formalized, legalized, recognized, sealed, validated
+smooth, plain, unadorned, unembellished, unornamented, unpatterned, unvaried, unremarkable, undistinguished, unexceptional, unimpressive, unremarkable, uninteresting, monotonous, dull, drab
+wealthy, thriving, successful, flourishing, booming, affluent, opulent, rich, well-off, prosperous, profitable, fruitful, productive, advantageous
+enigmas, challenges, brain teasers, riddles, brainteasers, conundrums, problems, mysteries, quizzes, tests, mind-benders, head-scratchers, perplexities, intricacies, complexities, difficulties, dilemmas, quandaries, intricacies, intricateness, perplexities, posers, teasers, stumpers, brain-twisters, enigmata, mysteries, mind games
+photographic spread, photo feature, image collection, picture series, visual display, graphic presentation, illustration set, portrait gallery, snapshot compilation, photo essay, picture portfolio, image anthology, photo montage, picture montage, photo collection, image selection, picture selection, visual compilation, graphic montage, illustration montage, portrait montage, snapshot montage, photo assortment, picture assortment
+observed, saw, noticed, viewed
+has, showcases, presents, displays, exhibits, boasts, highlights, includes
+mainly, mostly, predominantly, chiefly, principally
+rests, sits, is located, is situated, can be found, stands, is positioned, occupies, is placed, is set, is established, is fixed
+outburst, explosion, blast, discharge, flare-up, burst, blowout, spurt, gush, surge, outbreak, convulsion, paroxysm
+seldom, infrequently, hardly ever, scarcely, almost never, scarcely ever, hardly, not often, on rare occasions, once in a blue moon, very occasionally, sporadically, intermittently
+told, directed, ordered
+aid, assist, bolster, boost, enhance, help, improve, promote, support, uplift, add to
+approved, authorized, endorsed, validated, sanctioned, accredited, attested, confirmed, affirmed, ratified, warranted, guaranteed, validated, authenticated, verified, acknowledged, accepted, legalized, legitimized, formalized, recognized, endorsed, sealed, stamped, signed, notarized, documented, confirmed.
+nearby, neighboring, bordering, contiguous, proximate, next-door, abutting, adjoining, close
+compelled, coerced, constrained, drove, impelled, made, pressured, pushed, urged, obliged
+surrounded, blockaded, encircled, trapped, hemmed in, under siege, invested, laid siege to, besieged, beleaguered, assailed, attacked, stormed, overrun
+revitalized, renewed, restored, refreshed, reinvigorated, rekindled, reawakened, regenerated, revived, resuscitated, reestablished, reinstated, reactivated, recharged, reanimated, reenergized, reconstituted, reborn
+changed, modified, altered, revised, updated, amended, corrected, refined, improved, adjusted
+adapted, transferred, converted, migrated, shifted, transported, moved, changed, modified, reworked, transformed, carried over, brought over, transplanted, transposed, relocated, transmitted, conveyed, exported, imported, replicated, duplicated
+shown, exhibited, presented, showcased, featured, unveiled, exposed, demonstrated, revealed
+found, uncovered, detected, spotted
+individuals, creatures, animals, beings, organisms, entities, things, objects, items, units, examples, cases, instances, samples, models, representatives, types, varieties, forms, kinds
+indicate, denote, represent, express, convey, show, reveal, communicate, imply, suggest, symbolize, stand for, mean
+winners, recipients, awardees, honorees, victors, champions, achievers, successful candidates, prizewinners, medalists, triumphant individuals, top performers, outstanding personalities, distinguished persons, celebrated figures, eminent professionals, exceptional talents, remarkable experts, notable specialists, renowned scholars, famous scientists, prominent researchers, brilliant minds
+located, positioned, placed, found, situated
+variant, form, edition, rendition, adaptation, modification, alteration, revision, copy, interpretation, reading, rendering, portrayal, representation, depiction, account
+led to, resulted in, brought about, triggered, produced, initiated, provoked, instigated, occasioned, gave rise to, engendered, created, induced, spawned, precipitated, effected
+takes away, carries off, extracts, withdraws, lifts, hauls, displaces, transfers, shifts, clears, empties, unloads, evacuates, dislodges, extracts, retrieves, displaces
+objectives, goals, aims, destinations, points, marks, objectives, destinations, places, sites, locations, positions, spots, areas, regions, zones, territories, objectives, aims
+placed, set up, positioned, fixed, mounted, erected, established, situated, arranged, assembled
+usually, commonly, typically, conventionally, normally, habitually
+obtained, acquired, gained, earned, won, attained, procured, achieved, landed, got, grabbed, clinched, bagged, scored, captured, seized, fetched, garnered, collected
+trying
+divorced, disconnected, detached, disjoined, dissociated, disunited, isolated, parted, removed, segregated, split, sundered, uncoupled, unlinked, unyoked, cut off, broke away, broke off, disengaged, disentangled, dislodged, dismounted
+often, frequently, regularly, typically, usually, generally, ordinarily, habitually, traditionally, routinely
+force, squeezing, pressure, weight, stress, tension, push, thrust, load, strain, burden, constriction, compaction, crushing, condensation, contraction, constrainment, impaction, jamming, packing.
+pieces, fragments, remains, parts, sections, portions, bits, traces, vestiges, relics, memorabilia, souvenirs, mementos
+slowly, steadily, little by little, bit by bit, by degrees, progressively, over time
+moved, transferred, shifted
+allegedly, supposedly, purportedly, imaginarily, fictitiously, fabulously, fancifully, unrealistically, fictively, apocryphally, unverifiably, unsubstantiatedly, unprovenly, questionably, doubtfully, debatably, disputably, speculatively, hypothetically, conjecturally, tentatively, putatively, presumedly, apparently, seemingly, ostensively, outwardly, superficially, purportedly, professedly, avowedly, declaredly, so-called
+update, revamp, renovate, remodel, refurbish, refresh, renew, restore, improve, enhance, spruce up, beautify, transform, restyle, modernize, redo
+thought, deemed, judged, viewed, regarded, seen as, looked upon as, reckoned, estimated, evaluated, appraised, rated, adjudged, counted, deemed to be, held to be, reputed, supposed, believed, perceived, opined
+persisted, endured, lasted, continued, remained, held on, stayed, subsisted, existed
+reaction, answer, reply, retort, comeback, feedback, acknowledgment, counteraction, reciprocation, rejoinder, comeback, reply, comeback
+hit, attained, achieved, gained, obtained, secured, acquired, clinched, grasped, captured, scored, succeeded, accomplished, fulfilled, realized, arrived at, made it to, got to, touched, topped, peaked
+situated, positioned, found, placed, situated, established, positioned, situated, sited, situated, positioned, situated, located, positioned
+specifically, especially, notably, particularly, chiefly, mainly, principally, predominantly, primarily, above all, in particular, particularly, singularly, specially, uniquely, distinctively, individually, characteristically, peculiarly, specifically, expressly, precisely, exactly, clearly, definitely, unmistakably
+stated, announced, proclaimed, affirmed, asserted, expressed, vocalized, uttered, pronounced, avowed, averred, attested, testified, confirmed, acknowledged, admitted, agreed, affirmed
+beginning, start, commencement, inception, initiation, launch
+job, career, occupation, trade, vocation, calling
+similar to, like, evocative of, suggestive of, redolent of, bringing to mind, calling to mind, harking back to, echoing, mirroring, resembling, imitative of, imitative, emulating, simulating, copying, following, aping, reflecting, representing, typifying, exemplifying
+includes, comprises, contains, encompasses, incorporates, involves, holds, embraces, has, is made up of, is composed of, is constituted by, is formed by, is comprised of, is assembled from, is organized around, is centered on, is built around, is founded on, is based on, is established by, is structured by, is shaped by
+regions, areas, parts, divisions, zones
