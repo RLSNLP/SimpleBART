@@ -1,4 +1,4 @@
-We use the method from https://aclanthology.org/2021.semeval-1.72/ to identify the word complexity. Then, we create the data for continued pre-training. An example .csv file is in this folder.
+We use the method from https://aclanthology.org/2021.semeval-1.72/ to identify the word complexity. Then, we create the data for continued pre-training. An example .csv file is in this folder. The 'text' column represents the masked text and the 'label' column represents the original text.
 
 To continue pre-training, you could execute the following commands:
 
